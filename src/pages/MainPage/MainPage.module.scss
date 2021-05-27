@@ -1,0 +1,7 @@
+$spacer: 16px;
+
+.page {
+  padding: $spacer * 2;
+  display: grid;
+  grid-template-columns: 15% 85%;
+}
